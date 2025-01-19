@@ -28,6 +28,7 @@ namespace Home_Work_21._01._25__2_
                 DisposeProcess(process);
             }
         }
+        
         private static ProcessStartInfo CreateProcessStartInfo()
         {
             return new ProcessStartInfo()
@@ -39,6 +40,7 @@ namespace Home_Work_21._01._25__2_
                 CreateNoWindow = true,
             };
         }
+        
         private static Process StartProcess(ProcessStartInfo processStartInfo)
         {
             var process = Process.Start(processStartInfo);
@@ -46,12 +48,14 @@ namespace Home_Work_21._01._25__2_
                 throw new InvalidOperationException("Failed to start the process.");
             return process;
         }
+        
         private static void DisplayProcessInfo(Process process)
         {
             Console.WriteLine("The child process has been launched.");
             Console.WriteLine("ID: " + process.Id);
             Console.WriteLine("Start Time: " + process.StartTime);
         }
+        
         private static string GetUserChoice()
         {
             Console.WriteLine("\nChoose an action:");
@@ -60,6 +64,7 @@ namespace Home_Work_21._01._25__2_
             Console.Write("Enter your choice (1 or 2): ");
             return Console.ReadLine();
         }
+        
         private static void HandleUserChoice(string choice, Process process)
         {
             switch (choice)
@@ -77,6 +82,7 @@ namespace Home_Work_21._01._25__2_
                     break;
             }
         }
+        
         private static void WaitForProcessToFinish(Process process)
         {
             string output = process.StandardOutput.ReadToEnd();
@@ -91,6 +97,7 @@ namespace Home_Work_21._01._25__2_
                 Console.WriteLine("Error: " + error);
             }
         }
+        
         private static void TerminateProcess(Process process)
         {
             Console.WriteLine("Terminating the child process...");
@@ -105,6 +112,7 @@ namespace Home_Work_21._01._25__2_
                 Console.WriteLine("The child process has already exited.");
             }
         }
+        
         private static void DisposeProcess(Process process)
         {
             process?.Dispose();
