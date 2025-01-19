@@ -1,0 +1,14 @@
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\bin\Debug\net8.0\Home Work 21.01.25 (2).exe
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\bin\Debug\net8.0\Home Work 21.01.25 (2).deps.json
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\bin\Debug\net8.0\Home Work 21.01.25 (2).runtimeconfig.json
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\bin\Debug\net8.0\Home Work 21.01.25 (2).dll
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\bin\Debug\net8.0\Home Work 21.01.25 (2).pdb
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).AssemblyInfoInputs.cache
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).AssemblyInfo.cs
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).csproj.CoreCompileInputs.cache
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).dll
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\refint\Home Work 21.01.25 (2).dll
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).pdb
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\Home Work 21.01.25 (2).genruntimeconfig.cache
+D:\.Net\Home Work\Home Work 21.01.25 (2)\Home Work 21.01.25 (2)\obj\Debug\net8.0\ref\Home Work 21.01.25 (2).dll
