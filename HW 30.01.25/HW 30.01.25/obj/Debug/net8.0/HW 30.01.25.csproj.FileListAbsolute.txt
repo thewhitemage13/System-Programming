@@ -1,0 +1,14 @@
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\bin\Debug\net8.0\HW 30.01.25.exe
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\bin\Debug\net8.0\HW 30.01.25.deps.json
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\bin\Debug\net8.0\HW 30.01.25.runtimeconfig.json
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\bin\Debug\net8.0\HW 30.01.25.dll
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\bin\Debug\net8.0\HW 30.01.25.pdb
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.AssemblyInfoInputs.cache
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.AssemblyInfo.cs
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.csproj.CoreCompileInputs.cache
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.dll
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\refint\HW 30.01.25.dll
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.pdb
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\HW 30.01.25.genruntimeconfig.cache
+D:\.Net\Home Work\HW 30.01.25\HW 30.01.25\obj\Debug\net8.0\ref\HW 30.01.25.dll
